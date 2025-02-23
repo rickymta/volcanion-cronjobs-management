@@ -1,0 +1,14 @@
+{
+  "Data": [
+    {
+      "BankName": "TECHCOMBANK",
+      "BankCode": "TCB",
+      "BankLogo": "https://www.techcombank.com.vn/Content/images/logo.png",
+      "BIN": 970409,
+      "Country": "Vietnam",
+      "CardType": "Debit",
+      "CardLevel": "ATM CARD",
+      "CardBrand": "PRIVATE LABEL"
+    }
+  ]
+}
